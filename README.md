@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- COLOQUE SEU BANNER AQUI -->
-<img src="./assets/banner.png" width="100%" alt="Banner"/>
+<img src="./assets/banner.jpg" width="100%" alt="Banner"/>
 
 # Hi there, I'm Maria Eduarda 👋
 

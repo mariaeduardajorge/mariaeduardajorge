@@ -1,98 +1,85 @@
-<div align="center">
 
 <!-- COLOQUE SEU BANNER AQUI -->
 <img src="./assets/banner.jpg" width="100%" alt="Banner"/>
 
-# Hi there, I'm Maria Eduarda 👋
+<!-- HERO SECTION -->
 
-### Technical High School Student in Computer Science @ FECAP
+<div align="center">
 
-Building technology to solve real-world problems.
+# Maria Eduarda
+
+### Building technology to solve real-world problems.
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Technical+High+School+Student+%40+FECAP;Artificial+Intelligence+Enthusiast;Competitive+Programming;Web+Development;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 Technical High School Student in Computer Science @ FECAP
+```python
+class MariaEduarda:
 
-💡 Passionate about Artificial Intelligence, Programming and Technology
+    def __init__(self):
+        self.education = "Technical High School Student @ FECAP"
+        self.interests = [
+            "Artificial Intelligence",
+            "Competitive Programming",
+            "Software Development",
+            "Technology"
+        ]
 
-🚀 Currently building projects focused on solving real-world problems
+        self.current_focus = [
+            "Building Real Projects",
+            "Learning New Technologies",
+            "Problem Solving",
+            "Hackathons"
+        ]
 
-📚 Currently learning:
+    def motto(self):
+        return "Learning by building."
+```
 
-- C++
-- Python
-- JavaScript
-- Git & GitHub
-- UI/UX with Figma
+---
 
-🏆 Highlights
+## 🚀 Current Focus
 
-- 🥇 OBI Phase 2 Participant
+- 🤖 Artificial Intelligence
+- 💻 Competitive Programming
+- 🌐 Web Development
+- 🎨 UI/UX Design with Figma
+- 🚀 Building real-world solutions
+
+---
+
+## 🏆 Highlights
+
+- 🥇 Qualified for OBI Phase 2
 - 🚀 Inteli Camp Participant
+- 🎓 Technical High School Student in Computer Science @ FECAP
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,figma,vscode,mysql&perline=5"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| ✈ **Azul Smart Travel** | AI platform to improve passengers' travel experience. |
-| 🏥 **KineMetrics AI** | Intelligent physiotherapy and movement analysis platform. |
-| 🍔 **SmartBurger** | Smart restaurant with AI recommendations and management dashboard. |
-| 🌐 **Personal Portfolio** | My personal website showcasing my projects and journey. |
-| 🏅 **OBI Solutions** | Competitive Programming solutions and studies. |
-
----
-
-## 📈 GitHub Stats
+## 🌎 Connect With Me
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Build a professional portfolio
-- 🚀 Develop impactful AI projects
-- 🏆 Participate in hackathons
-- 💻 Improve Competitive Programming skills
-- 🌎 Keep learning something new every day
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+<a href="SEU_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -106,8 +93,8 @@ Building technology to solve real-world problems.
 
 <div align="center">
 
-> *"Technology is most powerful when it solves real problems."*
-
-⭐ Thanks for visiting my profile!
+### ✨ "Every project is a new opportunity to learn."
 
 </div>
+
+---

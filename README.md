@@ -98,3 +98,300 @@ class MariaEduarda:
 </div>
 
 ---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode,figma,mysql&perline=5"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 💻 Programming
+
+- C++
+- Python
+- JavaScript
+- Object-Oriented Programming
+- Data Structures
+
+</td>
+
+<td width="50%">
+
+### 🌐 Development
+
+- HTML5
+- CSS3
+- Git & GitHub
+- UI/UX Design
+- Figma
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 2026 Roadmap
+
+- [x] Learn Git & GitHub
+- [x] Build my first portfolio
+- [x] Participate in Inteli Camp
+- [x] Qualify for OBI Phase 2
+- [ ] Launch Azul Smart Travel
+- [ ] Finish KineMetrics AI
+- [ ] Build SmartBurger
+- [ ] Publish my personal portfolio
+- [ ] Learn React
+- [ ] Learn Flask
+- [ ] Learn SQL in depth
+- [ ] Participate in Hackathons
+
+---
+
+# 🧠 Areas of Interest
+
+<div align="center">
+
+| Artificial Intelligence | Competitive Programming | Web Development |
+|:-----------------------:|:------------------------:|:---------------:|
+| 🤖 | 🏆 | 🌐 |
+
+| UI/UX | Startups | Innovation |
+|:------:|:--------:|:----------:|
+| 🎨 | 🚀 | 💡 |
+
+</div>
+
+---
+
+# 📈 Learning Journey
+
+```text
+Programming         ████████████░░░░░░░░
+
+Problem Solving     ███████████░░░░░░░░░
+
+Web Development     ██████████░░░░░░░░░░
+
+Git & GitHub        █████████░░░░░░░░░░░
+
+UI/UX Design        ████████░░░░░░░░░░░░
+
+Artificial Intelligence
+                    ███████░░░░░░░░░░░░░
+```
+
+> *Always improving. Every project teaches something new.*
+
+---
+
+# 🏅 Competitive Programming
+
+```cpp
+while(!success){
+
+    practice();
+
+    solveProblems();
+
+    learn();
+
+}
+```
+
+Currently focused on:
+
+- 🏆 OBI
+- ⚡ Algorithms
+- 📚 Data Structures
+- 💻 C++
+
+---
+
+# 🚀 What I'm Building
+
+```text
+🏥 KineMetrics AI
+Status: ███████░░░ 70%
+
+✈ Azul Smart Travel
+Status: ██░░░░░░░░ 20%
+
+🍔 SmartBurger
+Status: █░░░░░░░░░ 10%
+
+🌐 Personal Portfolio
+Status: ███░░░░░░░ 30%
+```
+
+---
+
+# 📖 Favorite Quote
+
+> *"The best way to learn technology is by building things that matter."*
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🏥 KineMetrics AI
+
+Healthcare platform focused on improving patient care through technology.
+
+**Stack**
+
+HTML • CSS • JavaScript • Python
+
+🚧 In Development
+
+</td>
+
+<td width="50%">
+
+## ✈ Azul Smart Travel
+
+AI-powered travel experience platform.
+
+**Stack**
+
+Figma • HTML • CSS • JavaScript
+
+🚧 Coming Soon
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🍔 SmartBurger
+
+Smart restaurant management system powered by AI.
+
+**Stack**
+
+HTML • CSS • JavaScript
+
+🚧 Coming Soon
+
+</td>
+
+<td width="50%">
+
+## 🌐 Personal Portfolio
+
+My personal website showcasing projects and experiences.
+
+🚧 Coming Soon
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💡 What Motivates Me
+
+```text
+Transforming ideas into projects.
+
+Learning continuously.
+
+Building useful technology.
+
+Solving real-world problems.
+
+Growing one project at a time.
+```
+
+---
+
+# 📅 2026 Journey
+
+✅ OBI Phase 2
+
+✅ Inteli Camp
+
+🚧 Building Portfolio
+
+🚧 Developing AI Projects
+
+🎯 Looking for new challenges
+
+---
+
+# 💻 Setup
+
+```yaml
+Laptop:
+    Windows
+
+Editor:
+    VS Code
+
+Design:
+    Figma
+
+Languages:
+    Python
+    C++
+    JavaScript
+
+Version Control:
+    Git
+    GitHub
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, feel free to follow my journey.
+
+</div>
+
+---
